@@ -17,5 +17,5 @@ custom_resources = /pl/
 dependencies#0 = https://github.com/britzl/defold-lfs/archive/refs/tags/1.1.0.zip
 
 [library]
-include_dirs = /pl
+include_dirs = pl
 
